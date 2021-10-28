@@ -1,4 +1,4 @@
-package 数组;
+package 字符串;
 
 public class validPalindrome2 {
     public boolean validPalindrome(String s) {

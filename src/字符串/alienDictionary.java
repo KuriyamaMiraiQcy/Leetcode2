@@ -1,7 +1,6 @@
-package 数组;
+package 字符串;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class alienDictionary {
     public boolean IsAlienSorted(String[] words, String order) {
